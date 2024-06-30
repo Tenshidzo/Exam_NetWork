@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_NetWork", "Exam_NetWork.csproj", "{027990EC-4093-4147-848C-144800779715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserForm", "UserForm\UserForm.csproj", "{1F157E37-E0A1-44FB-B581-89A9EFAB6A7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027990EC-4093-4147-848C-144800779715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027990EC-4093-4147-848C-144800779715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027990EC-4093-4147-848C-144800779715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027990EC-4093-4147-848C-144800779715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F157E37-E0A1-44FB-B581-89A9EFAB6A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F157E37-E0A1-44FB-B581-89A9EFAB6A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F157E37-E0A1-44FB-B581-89A9EFAB6A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F157E37-E0A1-44FB-B581-89A9EFAB6A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1489A5EF-5582-4AC6-8DA1-9FCA2A3C626C}
+	EndGlobalSection
+EndGlobal
